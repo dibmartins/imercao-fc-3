@@ -1,0 +1,27 @@
+- Netflix -> Fullcycle developer -> Opere aquilo que você desenvolve.
+- Criaremos uma aplicação Code Bank. (Checkout/Extrato).
+- gRPC -> HTTP2 -> Mais performático que REST.
+
+Tecnologias:
+
+# Bank
+    - Golang
+
+# Checkout e Extrato (Backend)
+    - Nest.js
+
+# Checkout e Extrato (Frontend)
+    - Next.js
+
+- Kafka/Kafka Connect
+- Elastic Search
+- Kibana
+- Docker
+- Kubernetes
+
+# Observabilidade
+
+- Istio
+- Kiali
+- Prometheus
+- Grafana
